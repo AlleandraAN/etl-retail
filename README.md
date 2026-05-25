@@ -10,14 +10,14 @@
 
 
 
-✅**Berikut setup:**
-1. Install Docker Desktop, dan pastikan WSL menyala secara otomatis saat docker desktop menyala.
+✅**Setup:**
+1. Install Docker Desktop, and if you're using Windows, ensure that WSL is turned on by default after you run Docker Desktop.
 
-2. Git clone <repo>. Pastikan untuk mengingat path tempat anda meng-clone repo.
+2. Git clone <repo>. Ensure that you remember the path at which you clone the repo.
 
-3. Cd ke file path, dan lakukan: docker compose up -d --build
+3. Cd to file path, and write: docker compose up -d --build
 
-4. Buka browser, dan akses http://localhost:8080 dengan kredensial (User: admin | Password: admin) 
+4. Open browser, and access http://localhost:8080 with credential (User: admin | Password: admin) 
 
 
 
